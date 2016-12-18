@@ -1,0 +1,14 @@
+# MySQL Connection Pool Config
+profile = "dev"
+
+[auth]
+username = "root"
+password = "samplepass"
+port = 6060
+
+
+[remote]
+username = "root"
+password = "remotepass"
+host = "127.0.0.1"
+port = 3306
